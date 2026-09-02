@@ -419,5 +419,105 @@
         "speed": 28
       }
     ]
+  },
+  {
+    "kabuId": "939374054",
+    "monster": {
+      "id": 879,
+      "name": "蓝电魂"
+    },
+    "tool": "洗髓丹",
+    "uses": [
+      {
+        "index": 1,
+        "at": 1788312346003,
+        "hp": 14,
+        "attack": 11,
+        "defence": 29,
+        "magic": 2,
+        "resistance": 15,
+        "speed": 22
+      },
+      {
+        "index": 2,
+        "at": 1788312346671,
+        "hp": 8,
+        "attack": 10,
+        "defence": 15,
+        "magic": 4,
+        "resistance": 26,
+        "speed": 6
+      },
+      {
+        "index": 3,
+        "at": 1788312347595,
+        "hp": 12,
+        "attack": 31,
+        "defence": 3,
+        "magic": 22,
+        "resistance": 29,
+        "speed": 14
+      },
+      {
+        "index": 4,
+        "at": 1788312348280,
+        "hp": 0,
+        "attack": 10,
+        "defence": 24,
+        "magic": 29,
+        "resistance": 18,
+        "speed": 19
+      },
+      {
+        "index": 5,
+        "at": 1788312348972,
+        "hp": 16,
+        "attack": 27,
+        "defence": 4,
+        "magic": 13,
+        "resistance": 12,
+        "speed": 14
+      },
+      {
+        "index": 6,
+        "at": 1788312349689,
+        "hp": 21,
+        "attack": 30,
+        "defence": 13,
+        "magic": 20,
+        "resistance": 7,
+        "speed": 25
+      },
+      {
+        "index": 7,
+        "at": 1788312350534,
+        "hp": 13,
+        "attack": 1,
+        "defence": 30,
+        "magic": 17,
+        "resistance": 26,
+        "speed": 22
+      },
+      {
+        "index": 8,
+        "at": 1788312351170,
+        "hp": 5,
+        "attack": 5,
+        "defence": 27,
+        "magic": 13,
+        "resistance": 0,
+        "speed": 10
+      },
+      {
+        "index": 9,
+        "at": 1788312351731,
+        "hp": 31,
+        "attack": 0,
+        "defence": 14,
+        "magic": 19,
+        "resistance": 24,
+        "speed": 26
+      }
+    ]
   }
 ]
