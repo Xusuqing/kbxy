@@ -309,5 +309,115 @@
       "accountId": "939374054",
       "command": "xishuiStart"
     }
+  },
+  {
+    "kabuId": "939374054",
+    "monster": {
+      "id": 879,
+      "name": "蓝电魂"
+    },
+    "tool": "洗髓丹",
+    "uses": [
+      {
+        "index": 1,
+        "at": 1788312132454,
+        "hp": 11,
+        "attack": 3,
+        "defence": 28,
+        "magic": 19,
+        "resistance": 22,
+        "speed": 19
+      },
+      {
+        "index": 2,
+        "at": 1788312133100,
+        "hp": 29,
+        "attack": 30,
+        "defence": 28,
+        "magic": 30,
+        "resistance": 19,
+        "speed": 18
+      },
+      {
+        "index": 3,
+        "at": 1788312133764,
+        "hp": 31,
+        "attack": 13,
+        "defence": 28,
+        "magic": 8,
+        "resistance": 24,
+        "speed": 27
+      },
+      {
+        "index": 4,
+        "at": 1788312134461,
+        "hp": 0,
+        "attack": 16,
+        "defence": 26,
+        "magic": 6,
+        "resistance": 31,
+        "speed": 26
+      },
+      {
+        "index": 5,
+        "at": 1788312135360,
+        "hp": 0,
+        "attack": 17,
+        "defence": 12,
+        "magic": 18,
+        "resistance": 23,
+        "speed": 19
+      },
+      {
+        "index": 6,
+        "at": 1788312136219,
+        "hp": 21,
+        "attack": 31,
+        "defence": 17,
+        "magic": 30,
+        "resistance": 25,
+        "speed": 14
+      },
+      {
+        "index": 7,
+        "at": 1788312137138,
+        "hp": 12,
+        "attack": 5,
+        "defence": 19,
+        "magic": 1,
+        "resistance": 4,
+        "speed": 1
+      },
+      {
+        "index": 8,
+        "at": 1788312138137,
+        "hp": 21,
+        "attack": 30,
+        "defence": 10,
+        "magic": 16,
+        "resistance": 25,
+        "speed": 23
+      },
+      {
+        "index": 9,
+        "at": 1788312138781,
+        "hp": 4,
+        "attack": 23,
+        "defence": 6,
+        "magic": 11,
+        "resistance": 16,
+        "speed": 19
+      },
+      {
+        "index": 10,
+        "at": 1788312139595,
+        "hp": 31,
+        "attack": 11,
+        "defence": 7,
+        "magic": 27,
+        "resistance": 20,
+        "speed": 28
+      }
+    ]
   }
 ]
