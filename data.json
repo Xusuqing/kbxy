@@ -729,5 +729,25 @@
         "speed": 28
       }
     ]
+  },
+  {
+    "kabuId": "939374054",
+    "monster": {
+      "id": 879,
+      "name": "蓝电魂"
+    },
+    "tool": "洗髓丹",
+    "uses": [
+      {
+        "index": 1,
+        "at": 1788313749202,
+        "hp": 29,
+        "attack": 28,
+        "defence": 30,
+        "magic": 9,
+        "resistance": 29,
+        "speed": 6
+      }
+    ]
   }
 ]
