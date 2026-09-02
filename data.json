@@ -749,5 +749,75 @@
         "speed": 6
       }
     ]
+  },
+  {
+    "kabuId": "939374054",
+    "monster": {
+      "id": 879,
+      "name": "蓝电魂"
+    },
+    "tool": "法术速度洗髓丹",
+    "uses": [
+      {
+        "index": 1,
+        "at": 1788313788150,
+        "hp": 29,
+        "attack": 28,
+        "defence": 30,
+        "magic": 21,
+        "resistance": 29,
+        "speed": 27
+      },
+      {
+        "index": 2,
+        "at": 1788313788799,
+        "hp": 29,
+        "attack": 28,
+        "defence": 30,
+        "magic": 8,
+        "resistance": 29,
+        "speed": 12
+      },
+      {
+        "index": 3,
+        "at": 1788313789486,
+        "hp": 29,
+        "attack": 28,
+        "defence": 30,
+        "magic": 31,
+        "resistance": 29,
+        "speed": 3
+      },
+      {
+        "index": 4,
+        "at": 1788313790173,
+        "hp": 29,
+        "attack": 28,
+        "defence": 30,
+        "magic": 2,
+        "resistance": 29,
+        "speed": 21
+      },
+      {
+        "index": 5,
+        "at": 1788313790800,
+        "hp": 29,
+        "attack": 28,
+        "defence": 30,
+        "magic": 10,
+        "resistance": 29,
+        "speed": 5
+      },
+      {
+        "index": 6,
+        "at": 1788313791543,
+        "hp": 29,
+        "attack": 28,
+        "defence": 30,
+        "magic": 31,
+        "resistance": 29,
+        "speed": 30
+      }
+    ]
   }
 ]
