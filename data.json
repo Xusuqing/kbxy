@@ -1,2 +1,47 @@
 [
+  {
+    "type": "xishui-run",
+    "kabuId": "939374054",
+    "completedAt": 1788311626891,
+    "data": {
+      "at": 1788311626891,
+      "monsterId": 879,
+      "monsterName": "蓝电魂",
+      "toolId": 100013,
+      "toolName": "洗髓丹",
+      "mode": "genius",
+      "requested": 10,
+      "plans": "hp:31",
+      "completed": 2,
+      "rows": [
+        {
+          "at": 1788311625953,
+          "magic": 2,
+          "attack": 30,
+          "resistance": 11,
+          "defence": 28,
+          "index": 1,
+          "speed": 9,
+          "source": "spirit-list",
+          "hp": 5
+        },
+        {
+          "at": 1788311626789,
+          "magic": 31,
+          "attack": 18,
+          "resistance": 6,
+          "defence": 11,
+          "index": 2,
+          "speed": 4,
+          "source": "spirit-list",
+          "hp": 29
+        }
+      ],
+      "message": "已由用户停止",
+      "type": "CUSTOM_BATTLE_RESULT",
+      "ok": false,
+      "accountId": "939374054",
+      "command": "xishuiStart"
+    }
+  }
 ]
