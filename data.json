@@ -4084,5 +4084,365 @@
         "speed": 20
       }
     ]
+  },
+  {
+    "kabuId": "939374054",
+    "monster": {
+      "id": 879,
+      "name": "蓝电魂"
+    },
+    "tool": "洗髓丹",
+    "uses": [
+      {
+        "index": 1,
+        "at": 1788317401894,
+        "hp": 2,
+        "attack": 21,
+        "defence": 3,
+        "magic": 27,
+        "resistance": 18,
+        "speed": 26
+      },
+      {
+        "index": 2,
+        "at": 1788317403018,
+        "hp": 7,
+        "attack": 0,
+        "defence": 2,
+        "magic": 2,
+        "resistance": 23,
+        "speed": 29
+      },
+      {
+        "index": 3,
+        "at": 1788317403602,
+        "hp": 28,
+        "attack": 0,
+        "defence": 7,
+        "magic": 21,
+        "resistance": 0,
+        "speed": 3
+      },
+      {
+        "index": 4,
+        "at": 1788317404736,
+        "hp": 18,
+        "attack": 11,
+        "defence": 10,
+        "magic": 21,
+        "resistance": 17,
+        "speed": 0
+      },
+      {
+        "index": 5,
+        "at": 1788317405461,
+        "hp": 1,
+        "attack": 11,
+        "defence": 18,
+        "magic": 3,
+        "resistance": 20,
+        "speed": 25
+      },
+      {
+        "index": 6,
+        "at": 1788317406221,
+        "hp": 2,
+        "attack": 15,
+        "defence": 30,
+        "magic": 1,
+        "resistance": 3,
+        "speed": 8
+      },
+      {
+        "index": 7,
+        "at": 1788317406858,
+        "hp": 14,
+        "attack": 6,
+        "defence": 31,
+        "magic": 10,
+        "resistance": 1,
+        "speed": 23
+      },
+      {
+        "index": 8,
+        "at": 1788317407566,
+        "hp": 4,
+        "attack": 14,
+        "defence": 24,
+        "magic": 6,
+        "resistance": 31,
+        "speed": 11
+      },
+      {
+        "index": 9,
+        "at": 1788317408275,
+        "hp": 11,
+        "attack": 27,
+        "defence": 17,
+        "magic": 9,
+        "resistance": 19,
+        "speed": 8
+      },
+      {
+        "index": 10,
+        "at": 1788317408847,
+        "hp": 21,
+        "attack": 19,
+        "defence": 12,
+        "magic": 16,
+        "resistance": 28,
+        "speed": 23
+      },
+      {
+        "index": 11,
+        "at": 1788317409645,
+        "hp": 2,
+        "attack": 13,
+        "defence": 29,
+        "magic": 7,
+        "resistance": 13,
+        "speed": 21
+      },
+      {
+        "index": 12,
+        "at": 1788317410198,
+        "hp": 11,
+        "attack": 7,
+        "defence": 3,
+        "magic": 16,
+        "resistance": 3,
+        "speed": 14
+      },
+      {
+        "index": 13,
+        "at": 1788317410982,
+        "hp": 2,
+        "attack": 9,
+        "defence": 13,
+        "magic": 21,
+        "resistance": 2,
+        "speed": 9
+      },
+      {
+        "index": 14,
+        "at": 1788317411657,
+        "hp": 0,
+        "attack": 24,
+        "defence": 29,
+        "magic": 10,
+        "resistance": 2,
+        "speed": 29
+      },
+      {
+        "index": 15,
+        "at": 1788317412385,
+        "hp": 5,
+        "attack": 8,
+        "defence": 13,
+        "magic": 23,
+        "resistance": 28,
+        "speed": 4
+      },
+      {
+        "index": 16,
+        "at": 1788317413454,
+        "hp": 16,
+        "attack": 31,
+        "defence": 2,
+        "magic": 12,
+        "resistance": 25,
+        "speed": 10
+      },
+      {
+        "index": 17,
+        "at": 1788317414232,
+        "hp": 29,
+        "attack": 14,
+        "defence": 13,
+        "magic": 4,
+        "resistance": 12,
+        "speed": 30
+      },
+      {
+        "index": 18,
+        "at": 1788317414910,
+        "hp": 6,
+        "attack": 14,
+        "defence": 0,
+        "magic": 9,
+        "resistance": 17,
+        "speed": 4
+      },
+      {
+        "index": 19,
+        "at": 1788317415561,
+        "hp": 11,
+        "attack": 15,
+        "defence": 8,
+        "magic": 10,
+        "resistance": 21,
+        "speed": 10
+      },
+      {
+        "index": 20,
+        "at": 1788317416740,
+        "hp": 13,
+        "attack": 23,
+        "defence": 22,
+        "magic": 14,
+        "resistance": 3,
+        "speed": 13
+      },
+      {
+        "index": 21,
+        "at": 1788317417335,
+        "hp": 16,
+        "attack": 7,
+        "defence": 13,
+        "magic": 13,
+        "resistance": 3,
+        "speed": 2
+      },
+      {
+        "index": 22,
+        "at": 1788317418098,
+        "hp": 20,
+        "attack": 22,
+        "defence": 10,
+        "magic": 23,
+        "resistance": 11,
+        "speed": 8
+      },
+      {
+        "index": 23,
+        "at": 1788317418716,
+        "hp": 9,
+        "attack": 14,
+        "defence": 8,
+        "magic": 10,
+        "resistance": 27,
+        "speed": 28
+      },
+      {
+        "index": 24,
+        "at": 1788317419471,
+        "hp": 27,
+        "attack": 3,
+        "defence": 16,
+        "magic": 27,
+        "resistance": 26,
+        "speed": 10
+      },
+      {
+        "index": 25,
+        "at": 1788317420155,
+        "hp": 17,
+        "attack": 2,
+        "defence": 25,
+        "magic": 29,
+        "resistance": 6,
+        "speed": 28
+      },
+      {
+        "index": 26,
+        "at": 1788317420713,
+        "hp": 21,
+        "attack": 8,
+        "defence": 2,
+        "magic": 14,
+        "resistance": 26,
+        "speed": 23
+      },
+      {
+        "index": 27,
+        "at": 1788317421488,
+        "hp": 20,
+        "attack": 11,
+        "defence": 15,
+        "magic": 18,
+        "resistance": 29,
+        "speed": 8
+      },
+      {
+        "index": 28,
+        "at": 1788317422267,
+        "hp": 7,
+        "attack": 8,
+        "defence": 16,
+        "magic": 23,
+        "resistance": 7,
+        "speed": 27
+      },
+      {
+        "index": 29,
+        "at": 1788317422973,
+        "hp": 31,
+        "attack": 24,
+        "defence": 5,
+        "magic": 13,
+        "resistance": 14,
+        "speed": 23
+      },
+      {
+        "index": 30,
+        "at": 1788317423621,
+        "hp": 31,
+        "attack": 13,
+        "defence": 17,
+        "magic": 2,
+        "resistance": 28,
+        "speed": 19
+      },
+      {
+        "index": 31,
+        "at": 1788317424535,
+        "hp": 16,
+        "attack": 7,
+        "defence": 14,
+        "magic": 0,
+        "resistance": 0,
+        "speed": 1
+      },
+      {
+        "index": 32,
+        "at": 1788317425196,
+        "hp": 19,
+        "attack": 6,
+        "defence": 31,
+        "magic": 28,
+        "resistance": 1,
+        "speed": 22
+      },
+      {
+        "index": 33,
+        "at": 1788317426027,
+        "hp": 30,
+        "attack": 7,
+        "defence": 25,
+        "magic": 4,
+        "resistance": 5,
+        "speed": 11
+      },
+      {
+        "index": 34,
+        "at": 1788317426667,
+        "hp": 28,
+        "attack": 12,
+        "defence": 5,
+        "magic": 19,
+        "resistance": 16,
+        "speed": 31
+      },
+      {
+        "index": 35,
+        "at": 1788317427526,
+        "hp": 29,
+        "attack": 18,
+        "defence": 12,
+        "magic": 20,
+        "resistance": 23,
+        "speed": 6
+      }
+    ]
   }
 ]
