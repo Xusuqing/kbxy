@@ -176,5 +176,138 @@
       "accountId": "939374054",
       "command": "xishuiStart"
     }
+  },
+  {
+    "type": "xishui-run",
+    "kabuId": "939374054",
+    "completedAt": 1788311859376,
+    "data": {
+      "at": 1788311859376,
+      "monsterId": 879,
+      "monsterName": "蓝电魂",
+      "toolId": 100013,
+      "toolName": "洗髓丹",
+      "mode": "genius",
+      "requested": 10,
+      "plans": "hp:31",
+      "completed": 10,
+      "rows": [
+        {
+          "at": 1788311852408,
+          "magic": 0,
+          "attack": 3,
+          "resistance": 5,
+          "defence": 9,
+          "index": 1,
+          "speed": 29,
+          "source": "spirit-list",
+          "hp": 8
+        },
+        {
+          "at": 1788311853166,
+          "magic": 27,
+          "attack": 8,
+          "resistance": 21,
+          "defence": 1,
+          "index": 2,
+          "speed": 5,
+          "source": "spirit-list",
+          "hp": 7
+        },
+        {
+          "at": 1788311853993,
+          "magic": 11,
+          "attack": 15,
+          "resistance": 11,
+          "defence": 12,
+          "index": 3,
+          "speed": 22,
+          "source": "spirit-list",
+          "hp": 21
+        },
+        {
+          "at": 1788311854662,
+          "magic": 2,
+          "attack": 22,
+          "resistance": 0,
+          "defence": 10,
+          "index": 4,
+          "speed": 21,
+          "source": "spirit-list",
+          "hp": 3
+        },
+        {
+          "at": 1788311855375,
+          "magic": 23,
+          "attack": 0,
+          "resistance": 27,
+          "defence": 12,
+          "index": 5,
+          "speed": 16,
+          "source": "spirit-list",
+          "hp": 12
+        },
+        {
+          "at": 1788311856152,
+          "magic": 19,
+          "attack": 6,
+          "resistance": 16,
+          "defence": 7,
+          "index": 6,
+          "speed": 1,
+          "source": "spirit-list",
+          "hp": 21
+        },
+        {
+          "at": 1788311857017,
+          "magic": 9,
+          "attack": 25,
+          "resistance": 31,
+          "defence": 0,
+          "index": 7,
+          "speed": 7,
+          "source": "spirit-list",
+          "hp": 29
+        },
+        {
+          "at": 1788311857662,
+          "magic": 8,
+          "attack": 22,
+          "resistance": 31,
+          "defence": 22,
+          "index": 8,
+          "speed": 7,
+          "source": "spirit-list",
+          "hp": 25
+        },
+        {
+          "at": 1788311858281,
+          "magic": 30,
+          "attack": 26,
+          "resistance": 21,
+          "defence": 24,
+          "index": 9,
+          "speed": 3,
+          "source": "spirit-list",
+          "hp": 6
+        },
+        {
+          "at": 1788311859068,
+          "magic": 10,
+          "attack": 2,
+          "resistance": 9,
+          "defence": 7,
+          "index": 10,
+          "speed": 18,
+          "source": "spirit-list",
+          "hp": 20
+        }
+      ],
+      "message": "已达到最大洗髓数，未满足任何方案",
+      "type": "CUSTOM_BATTLE_RESULT",
+      "ok": false,
+      "accountId": "939374054",
+      "command": "xishuiStart"
+    }
   }
 ]
