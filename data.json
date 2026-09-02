@@ -2039,5 +2039,25 @@
         "nature": "冷静"
       }
     ]
+  },
+  {
+    "kabuId": "939374054",
+    "monster": {
+      "id": 879,
+      "name": "蓝电魂"
+    },
+    "tool": "洗髓丹",
+    "uses": [
+      {
+        "index": 1,
+        "at": 1788315355469,
+        "hp": 22,
+        "attack": 21,
+        "defence": 11,
+        "magic": 24,
+        "resistance": 10,
+        "speed": 19
+      }
+    ]
   }
 ]
